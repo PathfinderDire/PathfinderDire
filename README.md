@@ -18,12 +18,13 @@ As a student of software engineering, I'm ining hands
 
 ## 🙏 How to collaborate
 
-If you're interested in working together on a project or if you have any ideas or feedback for me, feel free to reach out! You can contact me at laelaf.sirak@gmail.com or on my cellphone at +251910999520.
-
+If you're interested in working together on a project or if you have any ideas or feedback for me, feel free to reach out!
 ## 📫 How to reach me
-
+- Git: @PathfinderDire
+- Twitter: @laelafS
+- Linkdin: https://www.linkedin.com/in/laelafshailu
 - Email: laelaf.sirak@gmail.com
-- Cellphone: +251910999520
+- Cellphone: +251 910 99 9520
 
 ## ⚡ Fun facts
 
