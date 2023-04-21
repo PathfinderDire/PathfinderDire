@@ -2,7 +2,10 @@
 
 # Selam, I'm Laelaf S. Hailu 👋
 
-A Medical doctor and tech enthusiast from Ethiopia 🇪🇹 with a passion for E-Health, AI, and Computer Vision.  👨‍💻 ALX Sftware Engineering Program student, facilitated by Holberton School, and taking bridging courses for a Masters in Software Engineering at HiLCoE School of Computer Science and Technology. I'm eager to collaborate with other developers on exciting projects.
+A Medical Doctor and Tech enthusiast from Ethiopia 🇪🇹 
+### A passion for E-Health, AI, and Computer Vision.
+👨‍💻 ALX Sftware Engineering Program student at HolbertonSchool.
+A 1st Year Masters in Software Engineering Student HiLCoE School of Computer Science and Technology. I'm eager to collaborate with other developers on exciting projects.
 
 ## 🔭 What I'm working on
 
