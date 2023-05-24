@@ -1,6 +1,6 @@
 
 
-# Selam, I'm Laelaf S. Hailu 👋
+# Selam! I'm Laelaf S. Hailu 👋
 
 A Medical Doctor and Tech enthusiast from Ethiopia 🇪🇹 
 ### A passion for E-Health, AI, and Computer Vision.
